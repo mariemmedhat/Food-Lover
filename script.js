@@ -15,12 +15,12 @@ let menuItems = [
 name: "LASAL CHEESE",
 price: "$18.00",
 description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.At, explicabo.",
-image: "food1.png"
+image: "../food1.png"
 },{
 name: "JUMBO CRAB SHRIMP",
 price: "$24.00",
 description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.At, explicabo.",
-image: "food2.png"
+image: "../food2.png"
 }, {
 name: "KOKTAIL JUICE",
 price: "$12.00",
